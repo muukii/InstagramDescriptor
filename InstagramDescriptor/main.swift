@@ -27,7 +27,7 @@ final class Storage {
   }
   
   func insertSeparator() {
-    current += "———————————————"
+    current += "_"
     insertNewline()
   }
   
